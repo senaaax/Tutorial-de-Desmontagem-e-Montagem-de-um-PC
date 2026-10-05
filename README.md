@@ -32,7 +32,7 @@ Só lembrando que um bom técnico em sua desmontagem deve ser sempre organizado!
 1. Desligue o computador e desconecte todos os cabos e periféricos, como mouse, teclado, monitor, impressora etc.
 2. Remova os parafusos que prendem a tampa do gabinete(se houver).
 3. Desconectar os conectores da fonte de alimentação.
-***(fOTO)***
+![Desconectando os conectores da fonte](foto(3).jpeg)
 4. Retirar fonte de alimentação do gabinete.
 ***(fOTO)***
 5. Desinstalar placas de vídeo e de som off-board, se houver.
