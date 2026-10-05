@@ -37,23 +37,23 @@ Só lembrando que um bom técnico em sua desmontagem deve ser sempre organizado!
    
 ![Foto da fonte extra](foto(extradafonte).png)
 
-6. Desinstalar placas de vídeo e de som off-board, se houver.
+5. Desinstalar placas de vídeo e de som off-board, se houver.
 ***(fOTO)***
-7. Desinstalar outras placas conectadas à placa-mãe, se houver.
-8. Desconectar conectores do gabinete acoplados à placa-mãe (somente gabinetes ATX e ITX).
-9. Desconectar cabos de dados.
+6. Desinstalar outras placas conectadas à placa-mãe, se houver.
+7. Desconectar conectores do gabinete acoplados à placa-mãe (somente gabinetes ATX e ITX).
+8. Desconectar cabos de dados.
 ***(fOTO)***
-10. Desafixar unidades de armazenamento secundário (HDDs, SSDs, dispositivos ópticos etc.)
+9. Desafixar unidades de armazenamento secundário (HDDs, SSDs, dispositivos ópticos etc.)
 ***(fOTO)***
-11. Desinstalar memória RAM na placa-mãe.
+10. Desinstalar memória RAM na placa-mãe.
 ***(fOTO)***
-12. Desinstalar dissipador de calor e ventoinha dos processador.
+11. Desinstalar dissipador de calor e ventoinha dos processador.
 ***(fOTO)***
-13. Desinstalar processador na placa-mãe.
+12. Desinstalar processador na placa-mãe.
 ***(fOTO)***
-14. Desafixar a placa-mãe do chassi metálico do gabinete.
+13. Desafixar a placa-mãe do chassi metálico do gabinete.
 ***(fOTO)***
-15. Realizar a limpeza.
+14. Realizar a limpeza.
 
 ## Passo a passo Remontagem
 
