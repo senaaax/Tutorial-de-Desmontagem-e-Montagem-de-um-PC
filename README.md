@@ -35,7 +35,7 @@ Só lembrando que um bom técnico em sua desmontagem deve ser sempre organizado!
 ![Desconectando os conectores da fonte](foto(3).jpeg)
 4. Retirar fonte de alimentação do gabinete.
    
-![Desconectando os conectores da fonte](foto(extradafonte).png)
+![Foto da fonte extra](foto(extradafonte).png)
 
 6. Desinstalar placas de vídeo e de som off-board, se houver.
 ***(fOTO)***
