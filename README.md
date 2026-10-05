@@ -38,7 +38,9 @@ Só lembrando que um bom técnico em sua desmontagem deve ser sempre organizado!
 ![Foto da fonte extra](fotofontetirada.png)
 
 5. Desinstalar placas de vídeo e de som off-board, se houver.
-***(fOTO)***
+
+![Foto da fonte extra](foto4.png)
+
 6. Desinstalar outras placas conectadas à placa-mãe, se houver.
 7. Desconectar conectores do gabinete acoplados à placa-mãe (somente gabinetes ATX e ITX).
 8. Desconectar cabos de dados.
