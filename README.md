@@ -34,7 +34,7 @@ Só lembrando que um bom técnico em sua desmontagem deve ser sempre organizado!
 3. Desconectar os conectores da fonte de alimentação.
 ![Desconectando os conectores da fonte](foto(3).jpeg)
 4. Retirar fonte de alimentação do gabinete.
-![Desconectando os conectores da fonte](foto(4).jpeg)
+![Desconectando os conectores da fonte](foto(4).png)
 5. Desinstalar placas de vídeo e de som off-board, se houver.
 ***(fOTO)***
 6. Desinstalar outras placas conectadas à placa-mãe, se houver.
