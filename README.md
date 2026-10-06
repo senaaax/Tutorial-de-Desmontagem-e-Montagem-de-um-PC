@@ -1,5 +1,4 @@
-
-# Tutorial de Desmontagem e Montagem de um PC
+# Tutorial de Desmontagem e Montagem de um PC (Lucas Henrique e Ismael de Sena)
 
 ## Introdução
 
