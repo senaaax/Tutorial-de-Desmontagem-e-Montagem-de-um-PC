@@ -32,10 +32,10 @@ Só lembrando que um bom técnico em sua desmontagem deve ser sempre organizado!
 1. Desligue o computador e desconecte todos os cabos e periféricos, como mouse, teclado, monitor, impressora etc.
 2. Remova os parafusos que prendem a tampa do gabinete(se houver).
 3. Desconectar os conectores da fonte de alimentação.
-![Desconectando os conectores da fonte](foto(3).jpeg){ width=150px }
+![Desconectando os conectores da fonte](foto(3).jpeg)
 4. Retirar fonte de alimentação do gabinete.
    
-![Foto da fonte extra](fotofontetirada.png){ width=150px }
+![Foto da fonte extra](fotofontetirada.png)
 
 5. Desinstalar placas de vídeo e de som off-board, se houver.
 
@@ -44,11 +44,11 @@ Só lembrando que um bom técnico em sua desmontagem deve ser sempre organizado!
 6. Desinstalar outras placas conectadas à placa-mãe, se houver.
 7. Desconectar conectores do gabinete acoplados à placa-mãe (somente gabinetes ATX e ITX).
 
-![conectores](foto7.jpg)
+![conectores](foto7.jpeg)
 
 8. Desconectar cabos de dados.
 
-![cabos de dados](foto8.png)
+![Cabos de dados](foto8.png)
 
 9. Desafixar unidades de armazenamento secundário (HDDs, SSDs, dispositivos ópticos etc.)
 
@@ -56,7 +56,7 @@ Só lembrando que um bom técnico em sua desmontagem deve ser sempre organizado!
 
 10. Desinstalar memória RAM na placa-mãe.
 
-![RAM](foto10.png)
+![RAM](foto10.jpg)
 
 11. Desinstalar dissipador de calor e ventoinha dos processador.
 
